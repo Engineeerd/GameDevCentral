@@ -14,10 +14,10 @@
 
 <!-- TECHNICAL INFORMATION -->
 ## Technical Overview
-[HTML](https://www.w3schools.com/html/) | [CSS](https://www.w3schools.com/css/default.asp) | [JAVASCRIPT](https://www.w3schools.com/js/default.asp) | [NODEJS](https://www.w3schools.com/nodejs/nodejs_intro.asp) | [REACT-JS](https://www.w3schools.com/react/default.asp)
+[HTML](https://www.w3schools.com/html/) | [CSS](https://www.w3schools.com/css/default.asp) | [JAVASCRIPT](https://www.w3schools.com/js/default.asp) | [NODEJS](https://www.w3schools.com/nodejs/nodejs_intro.asp) | [TYPESCRIPT](https://www.typescriptlang.org/) | [REACT-JS](https://www.w3schools.com/react/default.asp)
 ```
 + Current Version: 1.0
-+ Programing Languages: HTML CSS JS NodeJS ReactJS
++ Programing Languages: HTML CSS JS NodeJS TypeScript ReactJS
 + IDE: Visual Studios Codium & Visual Studios Code
 + Programs: Visual Studios Codium, Visual Studios Code, GitHub Desktop, and SourceTree.
 ```
